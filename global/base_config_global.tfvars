@@ -3,6 +3,7 @@
 context = "p10"
 namespace = "testing"
 
+wizz-in_app_url = "url"
 # psql_server = "CONFIGURE"
 s3_endpoint = "s3.amazonaws.com"
 
