@@ -31,8 +31,8 @@ wizz-in_secret_key_base = "abc"
 
 # grafana_pg_user = "CONFIGURE"
 # grafana_pg_password = "CONFIGURE"
-# grafana_admin_user = "CONFIGURE"
-# grafana_admin_password = "CONFIGURE"
+grafana_admin_user = "admin"
+grafana_admin_password = "admin"
 
 # wizz-vis_pg_user = "CONFIGURE"
 # wizz-vis_pg_password = "CONFIGURE"
