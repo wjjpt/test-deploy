@@ -1,4 +1,8 @@
 ---
-wdp_version: 0.1.0
+wdp_version: 0.1.2
 platform: onpremise
 flavour: standard
+plugins:
+  storage-devel:
+    repo: git@github.com:wizzie-io/wdp-plugin-storage-devel.git
+    version: master
