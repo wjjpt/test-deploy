@@ -1,6 +1,6 @@
 ## ONPREMISE PLATFORM PLUGIN - CONFIGURABLE VARS - GLOBAL COMPONENTS
 
-# cdomain = "CONFIGURE"
+cdomain = "testing.ivanlab.lan"
 
 # BATUTA
 # batuta_ingress_host = "OPTIONAL"
